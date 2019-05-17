@@ -41,9 +41,9 @@ function toyBuilder(object){
   var toyImg = document.createElement('img')
   var toyLikes = document.createElement('p')
   var htag = document.createElement('h2')
-  likeToy.classList.add("like")
+  likeToy.dataset.id = "like"
   likeToy.innerText = "Like 🧸"
-  likeToy.dataset.toyId = object.id
+  // likeToy.dataset.toyId = object.id
   toyLikes.innerText = `${object.likes} likes!` 
   toyImg.src = object.image
   toyImg.classList.add("toy-avatar")
@@ -74,7 +74,7 @@ document.addEventListener("click", function(e){
   if (e.target.classList[0] == "like"){
     console.log("this should like the toy, but I cannot find what I need to find on google to impliment this function yet")
     console.log(e.target.dataset.toyId)
-    num = parseInt(e.target.previousElementSibling.innerText.split(" ")[1])
+    num = parseInt(e.target.previousElementSibling.innerText.split(" ")[0])
     let toyId = e.target.dataset.toyId
     fetch(`${toyLink}/${toyId}`,{
       method: "PATCH",
@@ -82,7 +82,7 @@ document.addEventListener("click", function(e){
         'Content-type': 'application/json'
       },
       body: JSON.stringify({
-        "likes": 4
+        "likes": num + 1
       })
     })
   }
