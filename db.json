@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 1
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 14
     },
     {
       "id": 3,
@@ -47,6 +47,116 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "pikachu",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "id": 9
+    },
+    {
+      "name": "pikachu",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "id": 10
+    },
+    {
+      "name": "pikachu",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "id": 11
+    },
+    {
+      "name": "PP",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "id": 12
+    },
+    {
+      "name": "PP",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "id": 13
+    },
+    {
+      "name": "pikachu",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "id": 14
+    },
+    {
+      "name": "pikachu",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "id": 15
+    },
+    {
+      "name": "PP",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "id": 16
+    },
+    {
+      "name": "pikachu",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "id": 17
+    },
+    {
+      "name": "pikachu",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "id": 18
+    },
+    {
+      "name": "pikachu",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "name": "kmimi",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "likes": 0,
+      "id": 20
+    },
+    {
+      "name": "zzzz",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "likes": 0,
+      "id": 21
+    },
+    {
+      "name": "aaaa",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "likes": 0,
+      "id": 22
+    },
+    {
+      "name": "iphone",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "likes": 0,
+      "id": 23
+    },
+    {
+      "name": "hello",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "likes": 0,
+      "id": 24
+    },
+    {
+      "name": "pikachu",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "likes": 0,
+      "id": 25
+    },
+    {
+      "name": "heyitsme",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "likes": 0,
+      "id": 26
+    },
+    {
+      "name": "Pratikshya",
+      "image": "https://static.giantbomb.com/uploads/original/0/6087/2437349-pikachu.png",
+      "likes": 0,
+      "id": 27
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 28
     }
   ]
 }
